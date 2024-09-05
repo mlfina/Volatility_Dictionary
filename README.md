@@ -2,7 +2,7 @@
 
 This site shares the **volatility dictionary** that help distill **textual volatility signals**.
 
-Please refer to **Chen, Du, and He (2024)**(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710) for details.
+Please refer to [**Chen, Du, and He (2024)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710) for details.
 
 ## Download via links
 
@@ -23,6 +23,8 @@ Please refer to **Chen, Du, and He (2024)**(https://papers.ssrn.com/sol3/papers.
   
   institution={Hunan University},
   
-  year={2024}
+  year={2024},
+  
+  url = {\url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710}}
 }
 `
