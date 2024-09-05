@@ -15,7 +15,9 @@ Please refer to [**Chen, Du, and He (2024)**](https://papers.ssrn.com/sol3/paper
 ## Reference
 
 `
-@techreport{cdh2024volatilitydictionary,
+@techreport{
+
+  cdh2024volatilitydictionary,
 
   title={The Risk of Finance Words},
 
@@ -26,5 +28,6 @@ Please refer to [**Chen, Du, and He (2024)**](https://papers.ssrn.com/sol3/paper
   year={2024},
   
   url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710}
+
 }
 `
