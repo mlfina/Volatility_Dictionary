@@ -1,4 +1,4 @@
-# Volatility_Dictionaries
+# Volatility_Dictionary
 
 This site shares the **volatility dictionary** that help distill **textual volatility signals**.
 
