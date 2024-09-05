@@ -25,6 +25,6 @@ Please refer to [**Chen, Du, and He (2024)**](https://papers.ssrn.com/sol3/paper
   
   year={2024},
   
-  url = {\url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710}}
+  url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710}
 }
 `
